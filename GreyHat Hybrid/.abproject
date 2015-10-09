@@ -1,0 +1,48 @@
+{
+  "ProjectName": "GreyHat Hybrid",
+  "ProjectGuid": "bd2bc1c5-6b75-47c0-9b45-0c57ec5a410b",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.GreyHatHybrid",
+  "DisplayName": "GreyHat Hybrid",
+  "Author": "",
+  "Description": "GreyHat Hybrid",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{54f37c04-8e3d-4a41-b4f7-99028ffb2f40}",
+  "WP8ProductID": "{dee12919-d5cc-4298-877a-161edc691bbf}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.GreyHatHybrid",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ],
+  "CorePlugins": [
+    "org.apache.cordova.network-information"
+  ]
+}

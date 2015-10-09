@@ -1,0 +1,42 @@
+{
+  "name": "kendo-ui-appbuilder-core",
+  "version": "2015.1.511",
+  "authors": [
+    "Telerik"
+  ],
+  "description": "Everything you need to build sites and apps with HTML5 & JavaScript",
+  "main": "js/kendo.mobile.min.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "html5",
+    "javascript",
+    "jquery",
+    "hybrid",
+    "ui",
+    "framework"
+  ],
+  "license": "Apache2",
+  "homepage": "http://www.github.com/telerik/kendo-ui-core",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "_release": "2015.1.511",
+  "_resolution": {
+    "type": "version",
+    "tag": "2015.1.511",
+    "commit": "4c682c1028fc8e802cb6d4be5870579f5218f8b9"
+  },
+  "_source": "git://github.com/kendo-labs/bower-kendo-ui-appbuilder.git",
+  "_target": "~2015.1.511",
+  "_originalSource": "kendo-ui-appbuilder-core",
+  "_direct": true
+}
