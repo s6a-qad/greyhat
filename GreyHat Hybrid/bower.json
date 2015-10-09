@@ -1,9 +1,9 @@
 {
-    "name": "kendouimobileapp",
+    "name": "kendoUiMobileApp",
     "private": true,
     "dependencies": {
         "kendo-ui-appbuilder-core": "*",
-        "everlive": ">=1.3.1"
+        "everlive": ">=1.3.0"
     },
     "devDependencies": {}
 }

@@ -1,4 +1,19 @@
 {
   "type": "kendo-ui-mobile",
-  "isNew": true
+  "views": [
+    {
+      "type": "kendo-ui-mobile:view",
+      "name": "homeView",
+      "components": [],
+      "title": "Home View",
+      "addToNavigation": true,
+      "icon": "home"
+    }
+  ],
+  "dataProviders": [],
+  "name": "kendoUiMobileApp",
+  "navigation": "tabstrip",
+  "view": "homeView",
+  "transition": "slide",
+  "skin": "flat"
 }

@@ -1,6 +1,6 @@
 {
   "name": "kendo-ui-appbuilder-core",
-  "version": "2015.1.511",
+  "version": "2015.3.1005+SP1",
   "authors": [
     "Telerik"
   ],
@@ -29,14 +29,13 @@
     "test",
     "tests"
   ],
-  "_release": "2015.1.511",
+  "_release": "2015.3.1005+SP1",
   "_resolution": {
     "type": "version",
-    "tag": "2015.1.511",
-    "commit": "4c682c1028fc8e802cb6d4be5870579f5218f8b9"
+    "tag": "2015.3.1005+SP1",
+    "commit": "32e4f231eb595bdb186c15cf4f7be7f95c12363b"
   },
   "_source": "git://github.com/kendo-labs/bower-kendo-ui-appbuilder.git",
-  "_target": "~2015.1.511",
-  "_originalSource": "kendo-ui-appbuilder-core",
-  "_direct": true
+  "_target": "*",
+  "_originalSource": "kendo-ui-appbuilder-core"
 }
